@@ -24,6 +24,9 @@
   color: white;
 }
 
+body{
+  background-color: blue; 
+}
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +38,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+   
+
+.islem{
+  display: flex;
+  justify-content: center;
+ background-color: blue; 
+  
+  
+}
+
+.aziz{
+  width: 300px;
+  border-radius: 180px;
 }
